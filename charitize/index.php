@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Charitize - Charity Organization Website Template</title>
+    <title>Chijindu Charity Org - Charity Organization Website Template</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -58,7 +58,7 @@
                             </div>
                             <div class="ms-2">
                                 <h6 class="text-primary mb-0">Call Us</h6>
-                                <span class="text-white">+012 345 6789</span>
+                                <span class="text-white">07088390504</span>
                             </div>
                         </div>
                     </div>
@@ -69,7 +69,7 @@
                             </div>
                             <div class="ms-2">
                                 <h6 class="text-primary mb-0">Mail Us</h6>
-                                <span class="text-white">info@domain.com</span>
+                                <span class="text-white">chijinducloud@gmail.com</span>
                             </div>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
                             </div>
                             <div class="ms-2">
                                 <h6 class="text-primary mb-0">Address</h6>
-                                <span class="text-white">123 Street, NY, USA</span>
+                                <span class="text-white">Abuja, Nigeria</span>
                             </div>
                         </div>
                     </div>
@@ -188,7 +188,7 @@
                             data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
                             <span></span>
                         </button>
-                        <h3 class="ms-5 mb-0">Together, we can build a world where everyone has the chance to thrive.
+                        <h3 class="ms-5 mb-0">Chijindu Cloud; Together, we can build a world where everyone has the chance to thrive.
                         </h3>
                     </div>
                 </div>
